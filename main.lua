@@ -1,5 +1,5 @@
 -- global
-Object = require("library/classic")
+Object = require("library/Classic")
 Camera = require("library/Camera")
 Animator = require("library/Animator")
 Push = require("library/Push")
